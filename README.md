@@ -1,6 +1,6 @@
 # Toward Mechanistic Explanation of Deductive Reasoning in Language Models
 
-This is the official implementation of the experiments conducted in **[[1]](https://arxiv.org/abs/2510.09340)**.
+This is the official implementation of the experiments conducted in **[[1]](https://arxiv.org/abs/2510.09340v1)**.
 
 # Overview
 
@@ -38,6 +38,6 @@ Other versions may work but are not guaranteed.
 Please cite [1] in all publications and works that use this code.
 
 # Bibliography
-[1] D. Maltoni, and M. Ferrara, "Toward Mechanistic Explanation of Deductive Reasoning in Language Models", arXiv:2510.0934, 2025.
+[1] D. Maltoni, and M. Ferrara, "Toward Mechanistic Explanation of Deductive Reasoning in Language Models", arXiv:2510.0934v1, 2025.
 
 [2] A. Karpathy, "nanoGPT: A lightweight implementation of medium-sized GPTs", https://github.com/karpathy/nanoGPT, 2022.
